@@ -100,6 +100,9 @@ jsproxy_config({
     'https://www.pornhub.com/': {
       redir: 'https://php.net/'
     },
+    'https://www.xvideos.com/': {
+      redir: 'https://php.net/'
+    },
     'http://haha.com/': {
       content: 'Hello World'
     },
